@@ -1,6 +1,6 @@
 # Geometry Processing - As Rigid As Possible Deformation
 
-This is my implementation of As Rigid As possible in [CSC419/CSC2520 Geometry Processing](https://github.com/alecjacobson/geometry-processing-csc2520/).
+This is my implementation of As Rigid As possible in the assignment of [CSC419/CSC2520 Geometry Processing](https://github.com/alecjacobson/geometry-processing-csc2520/).
 
 ## Build & Execution
 ```
