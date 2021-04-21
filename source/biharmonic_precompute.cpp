@@ -12,4 +12,14 @@ void biharmonic_precompute(
 {
   // REPLACE WITH YOUR CODE
   data.n = V.rows();
+  Eigen::SparseMatrix<double> L, M;
+  igl::cotmatrix(V, F, L);
+  igl::massmatrix(V, F, igl::MASSMATRIX_TYPE_DEFAULT, M);
+
+  Eigen::SparseMatrix<double> Q;
+  Q = L.transpose() * M * L;
+
+  Eigen::SparseMatrix<double> Aeq;
+  igl::min_quad_with_fixed_precompute(Q, b, Aeq, false, data);
+
 }

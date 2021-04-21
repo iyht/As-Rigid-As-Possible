@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcore.a  CMakeFiles/core.dir/source/arap_precompute.cpp.o CMakeFiles/core.dir/source/arap_single_iteration.cpp.o CMakeFiles/core.dir/source/biharmonic_precompute.cpp.o CMakeFiles/core.dir/source/biharmonic_solve.cpp.o
+/usr/bin/ranlib libcore.a

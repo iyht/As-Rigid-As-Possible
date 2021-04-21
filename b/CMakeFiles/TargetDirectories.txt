@@ -1,0 +1,12 @@
+/home/haotian/CSC419/geometry-processing-deformation/b/CMakeFiles/rebuild_cache.dir
+/home/haotian/CSC419/geometry-processing-deformation/b/CMakeFiles/deformation.dir
+/home/haotian/CSC419/geometry-processing-deformation/b/CMakeFiles/core.dir
+/home/haotian/CSC419/geometry-processing-deformation/b/CMakeFiles/edit_cache.dir
+/home/haotian/CSC419/geometry-processing-deformation/b/glad/CMakeFiles/rebuild_cache.dir
+/home/haotian/CSC419/geometry-processing-deformation/b/glad/CMakeFiles/edit_cache.dir
+/home/haotian/CSC419/geometry-processing-deformation/b/glad/CMakeFiles/glad.dir
+/home/haotian/CSC419/geometry-processing-deformation/b/glfw/CMakeFiles/rebuild_cache.dir
+/home/haotian/CSC419/geometry-processing-deformation/b/glfw/CMakeFiles/edit_cache.dir
+/home/haotian/CSC419/geometry-processing-deformation/b/glfw/src/CMakeFiles/rebuild_cache.dir
+/home/haotian/CSC419/geometry-processing-deformation/b/glfw/src/CMakeFiles/edit_cache.dir
+/home/haotian/CSC419/geometry-processing-deformation/b/glfw/src/CMakeFiles/glfw.dir
