@@ -19,5 +19,6 @@ make
 ![](images/knight-deformation.gif)
 ![](images/bunny-harmonic.gif)
 ![](images/bunny-biharmonic.gif)
+![](images/knight-biharmonic-large-rotation.gif)
 ![](images/knight-arap-large-rotation.gif)
 ![](images/knight-arap-high-vs-low-resolution.gif)
